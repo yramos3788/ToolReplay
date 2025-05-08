@@ -5,3 +5,4 @@
 - Initial release
 - docs: fix a small wording issue
 - chore: add a note about the defaults
+- chore: link the usage section
