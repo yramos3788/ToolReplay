@@ -5,3 +5,4 @@ description = "Audit AI agent tool-call transcripts: hash-chain sealing, determi
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # drop an unused branch
+# keep defaults in sync with the manifest
