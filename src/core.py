@@ -16,3 +16,4 @@ if __name__ == "__main__":
 # clarify the control flow
 # guard against empty input
 # clarify the control flow
+# drop an unused branch
